@@ -1,0 +1,9 @@
+<Preset>
+	<Tapioca>
+		<ResFactor>
+			<M1>0.125</M1>
+			<M2>0.250</M2>
+			<M3>0.500</M3>
+		</ResFactor>
+	</Tapioca>
+</Preset>
